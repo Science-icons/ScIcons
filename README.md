@@ -3,7 +3,7 @@
 Scicons is a opernsource icon project with the vision to create a range of stylised opensource accessible science themed icons that can represent the diversity of science.
 
 ## Current Icons
-The base set of icons are created with a black and white base.
+There are currently 22 scicons published. The base set of icons are created with a black and white base.
 
 ![All Current Icons](/all_scicons_BW.PNG)
 
@@ -22,7 +22,7 @@ Alternative
 
 ## Future Additions
 
-There are no concrete plans to extend the available scicons. 
+There are no concrete plans to extend the available scicons. If the project does end up growing a taxonomy/tag system will be developed.
 
 Other contributers are welcome, scicon designed should be made in a cohesive manner.
 
