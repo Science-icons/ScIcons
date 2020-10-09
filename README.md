@@ -25,6 +25,7 @@ Alternative
 There are no concrete plans to extend the available scicons. 
 
 If the project does end up growing there are a few thoughts on features:
+* Expand icons up to 100 different icons.
 * a taxonomy/tag system for classifying icons built into their SVG.
 * primary/secondary colouring layer built into SVG nodes
 * Scicon style guide and pallette sheet
