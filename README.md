@@ -4,7 +4,7 @@ Scicons is a opernsource icon project with the vision to create a range of styli
 
 ## Current Icons
 The base set of icons are created with a black and white base.
-
+(You may see non science icons in the below pictures, this is a error in a uploaded image which is taking time to propogate image updates on github)
 ![All Current Icons](/all_scicons_BW.PNG)
 
 ## Colour Variations
