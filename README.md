@@ -13,11 +13,11 @@ Scicons can be customised through standard SVG colouring. The master file also i
 
 Neon
 
-![All Current Icons](/all_icons_neon.PNG)
+![Neon Current Icons](/all_icons_neon.PNG)
 
 Alternative
 
-![All Current Icons](/all_scicons_other.PNG)
+![Other Current Icons](/all_scicons_other.PNG)
 
 
 ## Future Additions
