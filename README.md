@@ -1,8 +1,6 @@
 # Scicons
 
-Scicons is a opensource project founded by Benjamin Maclaren, the first scicons were commissioned by Ben and produced by artist Jamie McCaw. Scicons were created using adobe illustrator and are available in SVG formats.
-
-The vision of scicons is to create a range of stylised opensource accessible science themed icons that can represent the diversity of areas and work in science.
+Scicons is a opernsource icon project with the vision to create a range of stylised opensource accessible science themed icons that can represent the diversity of science.
 
 ## Current Icons
 The base set of icons are created with a black and white base.
@@ -29,3 +27,6 @@ There are no concrete plans to extend the available scicons.
 Other contributers are welcome, scicon designed should be made in a cohesive manner.
 
 If there is interest for this project a donation link may be added to pay artists for additions.
+
+## About the Project
+Scicons is a opensource project founded by Benjamin Maclaren. The first scicons were commissioned by Ben and produced by artist Jamie McCaw. Scicons were created using adobe illustrator and are available in SVG formats.
