@@ -22,7 +22,13 @@ Alternative
 
 ## Future Additions
 
-There are no concrete plans to extend the available scicons. If the project does end up growing a taxonomy/tag system will be developed.
+There are no concrete plans to extend the available scicons. 
+
+If the project does end up growing there are a few thoughts on features:
+* a taxonomy/tag system for classifying icons built into their SVG.
+* primary/secondary colouring layer built into SVG nodes
+* UI Interface for colouring and browsing icons.
+* Searchable icons (building of the taxonomy to find icons within fields e.g. chemstry -> equipment)
 
 Other contributers are welcome, scicon designed should be made in a cohesive manner.
 
