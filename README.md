@@ -27,8 +27,10 @@ There are no concrete plans to extend the available scicons.
 If the project does end up growing there are a few thoughts on features:
 * a taxonomy/tag system for classifying icons built into their SVG.
 * primary/secondary colouring layer built into SVG nodes
+* Scicon style guide and pallette sheet
 * UI Interface for colouring and browsing icons.
 * Searchable icons (building of the taxonomy to find icons within fields e.g. chemstry -> equipment)
+* Standardised SVG animations that work with all icons.
 
 Other contributers are welcome, scicon designed should be made in a cohesive manner.
 
